@@ -14,4 +14,5 @@ The detailed pocedure is described here, and it contains important information a
 
 **From other repository managers:**
 
-TO INVESTIGATE
+From bitbucket to github: https://medium.com/@yadav_abhishek/migrate-bitbucket-repo-to-github-1c0cef10c54d
+This procedure might work for all repository managers, this should be tested by someone. 
